@@ -1,0 +1,10 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración local
+.env
+docker-compose.override.yml
+
+# Archivos de Docker
+*.log
